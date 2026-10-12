@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\money.Form1.resources
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq_6.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq 6.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq 6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq 6.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Yeni qovluq\tapsiriq 6\tapsiriq 6\obj\Debug\net10.0-windows\tapsiriq 6.csproj.CoreCompileInputs.cache
